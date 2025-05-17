@@ -85,4 +85,4 @@ lista.mostrarAdelante();
 
 console.log("Lista hacia atrás:");
 lista.mostrarAtras();
-// S
+// Ser
